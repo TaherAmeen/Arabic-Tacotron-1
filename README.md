@@ -10,3 +10,8 @@ This is a modification to [youssefsharief/arabic-tacotron-tts](https://github.co
 -training the model on a new dataset that is larger and clearer than the already existing one.
 
 -making my own vocalization model
+
+## Pre-trained models
+[Pre-trained tacotron model](https://drive.google.com/file/d/1c8VaKKKBdhqiwQWvC2K5ut18RKoNfpgg/view?usp=sharing)
+
+[Pre-trained Shakkala model](https://github.com/Barqawiz/Shakkala/tree/master/model)
